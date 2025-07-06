@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✨ SAINI DRM Bot ✨
+  ✨ Shera DRM Bot ✨
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-> 🔐 **Note:** CP DRM supported — Minimum quality **360p**  
+> 🔐 **Note:** CP DRM supported — Minimum quality **720p**  
 > 🚫 **Do not remove the credit tag**
 
 ---
