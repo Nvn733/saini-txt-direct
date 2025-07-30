@@ -5,7 +5,7 @@ from os import environ
 
 API_ID = int(environ.get("API_ID", "29020892"))
 API_HASH = environ.get("API_HASH", "15bfac43cfbeb3993c942ce2f11ec3f8")
-BOT_TOKEN = environ.get("BOT_TOKEN", "7478529677:AAEC-s00m6acYg6lstSzTgznQ_0_bN5hQqI")
+BOT_TOKEN = environ.get("BOT_TOKEN", "8474744972:AAEGbqL8e2jDcOv5Ur4VOhbJWZYDCEn0g9Y")
 OWNER = int(environ.get("OWNER", "7068000043"))
 CREDIT = "𝄟⃝‌🐬🇳‌ɪᴋʜɪʟ𝄟⃝🐬"
 #WEBHOOK = True  # Don't change this
